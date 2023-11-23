@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11
+  - pip
   - pip:
     - adjusttext==0.8
     - anyio==4.0.0
